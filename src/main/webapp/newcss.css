@@ -1,0 +1,44 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 25/02/2023, 8:56:55 p. m.
+    Author     : WORKING
+*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body{
+      background-image: url('https://okdiario.com/img/2021/07/26/la-verdadera-razon-por-la-que-flotan-los-astronautas.jpg');
+  }
+.form-ing{
+    margin: auto;  
+    background: rgb(107, 160, 160);
+    width: 450px;
+    margin-top: 100px;
+    border-radius: 4px;
+    padding: 70px;
+    box-shadow: 7px 13px 37px #ffffff;
+    font-size: 20px;
+    border: 3px solid #82fcff;
+  }
+  .form-ing #btn{
+  
+    width: 100%;
+   font-size: 16px;
+   
+  }
+  
+  
+  
+  .inp{
+    padding: 5px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    width: 100%;
+  }
+
